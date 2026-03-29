@@ -7,6 +7,7 @@ The dataset used in this project is the Heart Failure Prediction dataset, which 
 The main objective is to compare multiple machine learning algorithms and identify the most effective model for heart disease prediction based on performance metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
 
 **Project Components**
+
 **01. CatBoost Model**
 
 CatBoost is a gradient boosting algorithm developed by Yandex, specifically designed to handle categorical features efficiently without requiring extensive preprocessing like one-hot encoding.
