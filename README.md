@@ -2,13 +2,13 @@
 
 **Group Details**
 
-**IT22339324 - Wijerathne M.A.S.M**
+**IT22339324 - Wijerathne M.A.S.M - CatBoost Model**
 
-**IT22923806 - Kodisinghe H.R**
+**IT22923806 - Kodisinghe H.R - XGBoost**
 
-**IT22325778 - Fernando W.P.N. S**
+**IT22325778 - Fernando W.P.N. S - Support Vector Machine (SVM)**
 
-**IT22897558 - Ekanayaka E.M.L.M**
+**IT22897558 - Ekanayaka E.M.L.M - Random Forest**
 
 For this project, we used the **https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction** obtained from Kaggle. The dataset consists of 918 patient records and 12 clinical features, including both numerical and categorical variables. These features represent key health indicators such as age, cholesterol levels, resting blood pressure, and heart rate, which are commonly used in cardiovascular diagnosis.
 
